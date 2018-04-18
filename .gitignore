@@ -1,4 +1,2 @@
 chapter-seven/node_modules/*
-*.un~
-*.ts~
-*.html~
+*~
